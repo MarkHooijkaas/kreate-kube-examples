@@ -9,3 +9,4 @@ This repository is planned to have various examples how to kreate kubernets appl
   -  possibility to tune for specific environments
 - multi: multi sub-applications
 - script: using a python script for extra flexibility
+- inq: sample where the Inq organisation has multiple projects sharing inq specific templates
